@@ -371,11 +371,13 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+```
     
 
-
 ---
+
 ## Take-Home Assignment: Adversarial Feature Sabotage
+
 **Task 1: Occlusion Sensitivity** 
 Make a 'Happy' face. Now cover your mouth. Does the prediction shift? Analyze why the eyes alone might not be a 'strong enough signal' for this specific architecture.
 
