@@ -1,11 +1,3 @@
-<style>
-@media print {
-    @page {
-        margin: 1.55rem; /* Reduces default margins significantly */
-    }
-}
-</style>
-
 # Lab Expirement: Advanced Deep Learning for Sentiment Engineering
 **Course:** COSC 442 - Artificial Intelligence 
 **Duration:** 60 Minutes | **Dataset:** FER-2013
