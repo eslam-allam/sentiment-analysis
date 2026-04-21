@@ -19,7 +19,9 @@ seaborn = ">=0.13.2,<0.14"
 matplotlib = ">=3.10.8,<4"
 kagglehub = ">=1.0.0,<2"
 ipykernel = ">=7.2.0,<8"
+ipywidgets = ">=8.1.8,<9"
 
 [pypi-dependencies]
 tensorflow = { version = ">=2.21.0, <3", extras = ["and-cuda"] }
 opencv-python = ">=4.13.0.92, <5"
+nbconvert = { version = ">=7.17.1, <8", extras = ["webpdf"] }
